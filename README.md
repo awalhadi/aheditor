@@ -1,3 +1,5 @@
 ### Installation
 
-1.  `npm i aheditor`
+1.  run ```code
+        npm i aheditor
+        ```
